@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
+```python
 print('Hello World')
 ```
 <h2 align="center">𝚆𝙷𝙾 𝙰𝙼 𝙸 ?<h2>
@@ -62,7 +62,7 @@ print('Hello World')
 
 
 
-```
+```cpp
 #include<iostream>
 int main(){
   std::cout << "CEDT";
